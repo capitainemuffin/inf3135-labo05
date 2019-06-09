@@ -36,6 +36,4 @@ int main(int argc, char ** argv){
 	printf("=\n");
 	affichermMatrice(matrice3[0], 3, 3);
 
-
-
 }
